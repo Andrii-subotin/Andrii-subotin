@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-!--
-**Andrii-subotin/Andrii-subotin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently doing my homework
 - 🌱 I’m currently learning how to do it
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Ukraine, Kharkiv str.Ukrains'ka 17/22
 - 😄 Pronouns: 
 - ⚡ Fun fact: i have six fingers on my left arm
--->
